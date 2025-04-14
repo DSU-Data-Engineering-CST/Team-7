@@ -1,0 +1,4 @@
+praw
+mysql-connector-python
+python-dotenv
+pandas
