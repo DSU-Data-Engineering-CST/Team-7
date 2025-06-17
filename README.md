@@ -38,10 +38,6 @@ reddit_etl/
 Create a `.env` file in the root directory:
 
 ```
-REDDIT_CLIENT_ID=S9hs5FHJg74a4kkMzmUg9A
-REDDIT_CLIENT_SECRET=VLQ6Jn6eWYmADmjp3jCXJIbd3fa5hA
-REDDIT_USER_AGENT=StockSentimentScript by u/Ok-Area-7765
-
 MYSQL_HOST=localhost
 MYSQL_USER=airflow
 MYSQL_PASSWORD=airflow_password
